@@ -1,4 +1,4 @@
-### Hi there 👋
+### JAVA, SPRINGBOOT, AWS, DOCKER, REACT 👋
 
 <!--
 **OkoroKelvin/OkoroKelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
